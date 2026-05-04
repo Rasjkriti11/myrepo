@@ -27,5 +27,5 @@ public static void main(String[]args)
 	int[] result=sumoftwo(nums,target);
 	System.out.println(Arrays.toString(result));
 }
-		    }
+}
 
